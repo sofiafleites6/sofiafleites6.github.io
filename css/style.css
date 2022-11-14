@@ -8,7 +8,7 @@ font-family: "Lato", "Monstserrat", "Verdana", "arial", sans-serif;
 background-position: center;
 margin: 0 auto;
 display: grid;
-grid-template-columns; 1fr 1fr;
+grid-template-columns: 1fr 1fr;
 grid-template-areas:
 "header header"
 "nav nav"
