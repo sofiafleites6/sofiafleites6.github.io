@@ -117,3 +117,7 @@ div.row{
 #government {
   grid-area: government;
 }
+
+#introduction{
+  grid-area: introduction;
+}
