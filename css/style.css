@@ -9,6 +9,7 @@ margin: 0 auto;
 display: grid;
 grid-template-columns; 1fr 1fr;
 grid-template-areas:
+"introduction introduction"
 "header header"
 "nav nav"
 "main main"
