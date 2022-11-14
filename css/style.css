@@ -57,7 +57,7 @@ main{
   max-width: 960px;
   grid-area: main;
   display: grid;
-  grid-template-colu7mns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-template-areas:
   "introduction introduction"
   "geography geography"
