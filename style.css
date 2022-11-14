@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat:wght@300&display=swap');
+/*Google fonts are Lato and Monsterrat*/
+
+body{
+max-width: 960px;
+font-family: "Lato", "Monstserrat", "Verdana", "arial", sans-serif;
+background-position: center;
+margin: 0 auto;
+display: grid;
+grid-template-columns; 1fr 1fr;
+grid-template-areas;
+"header header"
+"nav nav"
+"main main"
+"footer footer";
+}
+
+header{
+  outline: 2px solid;
+  outline-color: black;
+  max-width: 960px;
+  grid-area: header;
+  align-content: start;
+  justify-content: start;
+    height: auto;
+    text-align: center;
+    background-color: rgb(237,41,57);
+}
+
+nav{
+  background-color: rgb(135,206,250);
+  outline: 2px solid;
+  outline-color: black;
+  max-width: 960px;
+  text-align: center;
+  width: 100%;
+  position: sticky;
+  top: 0px;
+  grid-area: nav;
+    height: auto;
+    margin: 0 auto;
+}
+
+nav ul{
+  max-width: 960px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+main{
+
+  margin: 0 auto;
+  max-width: 960px;
+  grid-area: main;
+  display: grid;
+  grid-template-colu7mns: 1fr 1fr;
+  grid-template-areas:
+  "geography geography"
+  "economy economy"
+  "government government"
+}
+
+section{
+  background-color: rgb(135,206,250);
+  max-width: 960px;
+  outline: 2px solid;
+  outline-color: black;
+    height: auto;
+    padding: 20px;
+
+}
+
+footer{
+  outline: 2px solid;
+  outline-color: black;
+  max-width: 960px;
+  margin: 0 auto;
+  width: 100%;
+  grid-area: footer;
+  text-align: center;
+  background-color: rgb(237,41,57);
+
+}
+
+h2, h3{
+  text-align:  center;
+}
