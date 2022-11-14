@@ -87,3 +87,32 @@ footer{
 h2, h3{
   text-align:  center;
 }
+
+img{
+  width: 50%; height: 50%;
+}
+
+div.box {
+  text-align: center;
+}
+
+div.column{
+  flex: 50%;
+  padding: 10px;
+}
+
+div.row{
+  display: flex;
+}
+
+#geography {
+  grid-area: geography;
+}
+
+#economy {
+  grid-area: economy;
+}
+
+#government {
+  grid-area: government;
+}
