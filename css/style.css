@@ -123,3 +123,15 @@ div.row{
 #introduction{
   grid-area: introduction;
 }
+
+a:link {
+  color: rgb(0,0,0);
+}
+
+a:visited {
+  color: rgb(34,139,34);
+}
+
+a:active {
+  color: rgb(255,0,255);
+}
