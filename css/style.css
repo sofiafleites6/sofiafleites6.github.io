@@ -2,6 +2,7 @@
 /*Google fonts are Lato and Monsterrat*/
 
 body{
+color: (0, 0, 0);
 max-width: 960px;
 font-family: "Lato", "Monstserrat", "Verdana", "arial", sans-serif;
 background-position: center;
@@ -65,6 +66,7 @@ main{
 
 section{
   background-color: rgb(13, 94, 175);
+
   max-width: 960px;
   outline: 2px solid;
   outline-color: black;
