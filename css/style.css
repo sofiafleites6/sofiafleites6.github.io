@@ -125,11 +125,11 @@ div.row{
 }
 
 a:link {
-  color: rgb(0,0,0);
+  color: rgb(255,255,255);
 }
 
 a:visited {
-  color: rgb(34,139,34);
+  color: rgb(238, 75, 43);
 }
 
 a:active {
