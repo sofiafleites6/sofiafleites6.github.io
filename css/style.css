@@ -67,13 +67,8 @@ main{
   "currentwork currentwork"
 }
 
-object{
-  max-width: 960px;
-  outline: 2px solid;
-  outline-color: black;
-    height: auto;
-    padding: 20px;
-}
+
+
 
 section{
   background-color: rgb(13, 94, 175);
