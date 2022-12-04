@@ -51,6 +51,8 @@ nav ul{
 
 }
 
+
+
 main{
 
   margin: 0 auto;
@@ -59,10 +61,18 @@ main{
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-areas:
-  "introduction introduction"
-  "geography geography"
-  "economy economy"
-  "government government"
+  "home home"
+  "aboutme aboutme"
+  "resume resume"
+  "currentwork currentwork"
+}
+
+object{
+  max-width: 960px;
+  outline: 2px solid;
+  outline-color: black;
+    height: auto;
+    padding: 20px;
 }
 
 section{
