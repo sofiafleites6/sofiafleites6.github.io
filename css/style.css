@@ -59,7 +59,7 @@ main{
   max-width: 960px;
   grid-area: main;
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-template-areas:
   "home home"
   "aboutme aboutme"
@@ -115,20 +115,20 @@ div.row{
   display: flex;
 }
 
-#geography {
-  grid-area: geography;
+#home {
+  grid-area: home;
 }
 
-#economy {
-  grid-area: economy;
+#resume {
+  grid-area: resume;
 }
 
-#government {
-  grid-area: government;
+#aboutme {
+  grid-area: aboutme;
 }
 
-#introduction{
-  grid-area: introduction;
+#currentwork{
+  grid-area: currentwork;
 }
 
 a:link {
