@@ -124,10 +124,10 @@ div.row{
 
 #resume {
   grid-area: resume;
+  width= "100%";
 
 }
 
-  <div id="resume"><img src="images/myresume.pdf" alt="resume" width="100%"></div>
 
 #aboutsofia {
   grid-area: aboutsofia;
