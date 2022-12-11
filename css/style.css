@@ -26,7 +26,7 @@ header{
   justify-content: start;
     height: auto;
     text-align: center;
-    background-color: rgb(231,230,233);
+    background-color: rgb(231,200,233);
 }
 
 nav{
@@ -91,7 +91,7 @@ footer{
   width: 100%;
   grid-area: footer;
   text-align: center;
-  background-color: rgb(231,230,233);
+  background-color: rgb(231,200,233);
 
 }
 
