@@ -14,7 +14,7 @@ grid-template-areas:
 "nav nav"
 "main main"
 "footer footer";
-background: url(".../images/pinkbackground.png");
+background: url("images/pinkbackground.png");
 background-position: right;
 }
 
