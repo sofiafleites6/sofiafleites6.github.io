@@ -2,7 +2,7 @@
 /*Google fonts are Lato and Monsterrat*/
 
 body{
-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
 max-width: 960px;
 font-family: "Lato", "Monstserrat", "Verdana", "arial", sans-serif;
 background-position: center;
@@ -30,7 +30,7 @@ header{
 }
 
 nav{
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
   outline: 2px solid;
   outline-color: black;
   max-width: 960px;
@@ -69,7 +69,7 @@ main{
 
 
 section{
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
 
   max-width: 960px;
   outline: 2px solid;
