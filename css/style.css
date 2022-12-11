@@ -67,30 +67,7 @@ main{
   "currentwork currentwork"
 }
 
-.bgimage {
-  height: 100vh;
-  background:
-  url('images/aboutsofia.JPG');
-  background-size:cover;
-  position:relative;
-}
 
-.headshot_title {
-  dont-size:4.5rem;
-}
-
-.headshot_desc {
-  font-size: 2rem;
-}
-
-.headshot-text {
-  text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-}
 section{
   background-color: rgb(13, 94, 175);
 
