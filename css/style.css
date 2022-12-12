@@ -14,8 +14,8 @@ grid-template-areas:
 "nav nav"
 "main main"
 "footer footer";
-background-image: url(".../images/pinkbackground.png");
-background-color: #cccccc;
+background: url(".../images/pinkbackground.png");
+background-position: right;
 }
 
 header{
