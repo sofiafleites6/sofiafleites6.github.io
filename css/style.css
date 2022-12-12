@@ -137,17 +137,17 @@ div.row{
 }
 
 a:link {
-  color: rgb(255,255,255);
+  color: rgb(0,0,0);
 }
 
 a:visited {
-  color: rgb(238, 75, 43);
+  color: rgb(255, 205, 280);
 }
 
 a:active {
-  color: rgb(255,0,255);
+  color: rgb(217,82,4);
 }
 
 a:hover {
-  color: rgb(255,0,255);
+  color: rgb(217,4,4);
 }
